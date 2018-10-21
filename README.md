@@ -15,3 +15,5 @@ Details for the challenge can be found at: https://2018.spaceappschallenge.org/c
 This game was produced with [Flowlab](https://flowlab.io/)
 
 You can see the Flowlab Editor for this game [here](https://flowlab.io/game/view/1015895)
+
+[Video describing the project](https://www.youtube.com/watch?v=dd8lgojaVzo)
