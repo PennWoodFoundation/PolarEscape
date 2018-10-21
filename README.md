@@ -17,3 +17,5 @@ This game was produced with [Flowlab](https://flowlab.io/)
 You can see the Flowlab Editor for this game [here](https://flowlab.io/game/view/1015895)
 
 [Video describing the project](https://www.youtube.com/watch?v=dd8lgojaVzo)
+
+[Presentation](https://docs.google.com/presentation/d/1gz3iS6bXdFoMZDW3DqzKZcq4KkOGlZ3rXx_ffs4IRDU)
